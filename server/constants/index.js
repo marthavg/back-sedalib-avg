@@ -1,0 +1,5 @@
+const FORMAT_FECHA_REGISTRO = {
+    FECHA:  'YYYYMMDD'
+}
+
+module.exports = FORMAT_FECHA_REGISTRO;
